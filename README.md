@@ -1,4 +1,4 @@
-# Izračunavanje vrijednosti broja Pi korištenjem Monte Carlo simulacije
+# IZRAČUNAVANJE VRIJEDNOSTI BROJA _PI_ KORIŠTENJEM MONTE CARLO SIMULACIJE (_Performanse računarskih sistema_) 
 
 * Implementacija je izvršena u programskom jeziku _Python_.
 
